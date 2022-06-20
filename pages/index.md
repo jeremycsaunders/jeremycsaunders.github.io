@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Jeremy Learns Things
+title: Jeremy Craig
 ---
