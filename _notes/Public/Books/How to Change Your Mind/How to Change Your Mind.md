@@ -5,7 +5,9 @@ date : 21-06-2022
 tags: #psychedelics #non-fiction #science
 ---
 
-Author: [[Michael Pollan]]  Published: 2018
+Author: [[Michael Pollan]]  
+
+Published: 2018
 
 ![[How to Change Your Mind.jpg]]
 
@@ -34,6 +36,8 @@ Author: [[Michael Pollan]]  Published: 2018
 
 ## References
 [[*Food of the Gods*]] - Terence McKenna
+
 [[*Doors of Perception*]] - Aldous Huxley
+
 [[*Animals and Psychedelics: The Natural World and the Instinct to Alter Consciousness*]] - Giorgio Samorini
 
