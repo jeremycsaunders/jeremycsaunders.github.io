@@ -9,7 +9,7 @@ tags: #psychedelics #non-fiction #science
 Author: [[Michael Pollan]]
 Published: 2018
 
-![[Pasted image 20220621143435.png]]
+![[How to Change Your Mind.jpg]]
 
 ## Summary
 
@@ -18,7 +18,7 @@ Published: 2018
 - [[Bicycle Day]]
 - [[Stoned Ape Theory]] (p. 115)
 - [[Why do psilocybes produce the chemical?]] (p. 121)
-- [[Psilocybes and animals ]](p. 123)
+- [[Psilocybes and animals]] (p. 123)
 - [[Difference between "Specialized scientists" and "Romantic scientists"]] (p. 128)
 
 
@@ -35,7 +35,7 @@ Published: 2018
 ## Quotes
 
 ## References
-*Food of the Gods* - Terence McKenna
-*Doors of Perception* - Aldous Huxley
-*Animals and Psychedelics: The Natural World and the Instinct to Alter Consciousness* - Giorgio Samorini
+[[*Food of the Gods*]] - Terence McKenna
+[[*Doors of Perception*]] - Aldous Huxley
+[[*Animals and Psychedelics: The Natural World and the Instinct to Alter Consciousness*]] - Giorgio Samorini
 
