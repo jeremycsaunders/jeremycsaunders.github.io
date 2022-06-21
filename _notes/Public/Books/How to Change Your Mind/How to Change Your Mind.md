@@ -12,7 +12,7 @@ Published: 2018
 
 ## Summary
 
-## Concepts & Questions
+## Concepts, Questions & Events
 - [[Discovery of LSD]]
 - [[Bicycle Day]]
 - [[Stoned Ape Theory]] (p. 115)
