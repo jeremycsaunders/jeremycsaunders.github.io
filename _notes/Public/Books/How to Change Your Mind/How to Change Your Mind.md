@@ -9,7 +9,7 @@ Author: [[Michael Pollan]]
 
 Published: 2018
 
-![Alt Text](/assets/img/How to Change Your Mind.jpg)("Title Here")
+![[How to Change Your Mind.jpg]]
 
 ## Summary
 
