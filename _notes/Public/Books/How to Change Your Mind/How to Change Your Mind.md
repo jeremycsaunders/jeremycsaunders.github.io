@@ -1,7 +1,7 @@
 ---
 title : How to Change Your Mind
-feed: show
-date : 15-04-2021
+feed: hidden
+date : 21-06-2022
 tags: #psychedelics #non-fiction #science
 ---
 
