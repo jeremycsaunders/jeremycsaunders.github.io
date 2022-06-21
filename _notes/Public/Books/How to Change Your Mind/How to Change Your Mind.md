@@ -5,9 +5,7 @@ date : 21-06-2022
 tags: #psychedelics #non-fiction #science
 ---
 
-# How to Change Your Mind
-Author: [[Michael Pollan]]
-Published: 2018
+Author: [[Michael Pollan]]  Published: 2018
 
 ![[How to Change Your Mind.jpg]]
 
