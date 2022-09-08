@@ -25,7 +25,7 @@ In other words, you will be learning about the **structure** and **function** of
 
 There are also several subdivisions of both anatomy and physiology:
 
-> <u>Subdivisions of Anatomy</u>
+ <u><b>Subdivisions of Anatomy</b></u>
 
 **Gross anatomy**<br>
 *Macroscopic; can be seen by the naked eye.*
@@ -48,7 +48,27 @@ There are also several subdivisions of both anatomy and physiology:
 
 <u>Embryology:</u> studies changes that occur before birth
 
-> <u>Subdivisions of Physiology</u>
+
+ <u><b>Subdivisions of Physiology</b></u>
+
+**Renal**<br>
+*Kidney/urine*
+
+**Neurophysiology**<br>
+*Nervous system*
+
+**Cardiovascular**<br>
+*Heart/blood vessels*
+
+---------
+
+### Questions
+
+- True/False - Anatomy is the study of function?
+
+**True**
+
+
 
 
 
