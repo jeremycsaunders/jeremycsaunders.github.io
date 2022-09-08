@@ -5,10 +5,7 @@ date : 07-09-2022
 tags: #anatomy #physiology #nursing
 ---
 
-* TOC
-{:toc}
-
-# Objectives
+# Learning Objectives
 --------------
 ## Objective 1
 --------------
