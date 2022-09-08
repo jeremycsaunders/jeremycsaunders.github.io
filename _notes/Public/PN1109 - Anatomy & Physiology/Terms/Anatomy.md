@@ -1,3 +1,10 @@
+---
+title : Anatomy
+feed: hidden
+date : 07-09-2022
+tags: #anatomy #nursing #terms
+---
+
 The scientific study of structure.
 
 Anatomy has a certain appeal because it is concrete. 
