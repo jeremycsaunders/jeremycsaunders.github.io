@@ -1,6 +1,6 @@
 ---
 title : Book List
-feed: show
+feed: hide
 date : 21-06-2022
 tags: #books #reading
 ---
