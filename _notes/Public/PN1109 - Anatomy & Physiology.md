@@ -25,7 +25,7 @@ In other words, you will be learning about the **structure** and **function** of
 
 There are also several subdivisions of both anatomy and physiology:
 
-<u>Subdivisions of Anatomy</u>
+> <u>Subdivisions of Anatomy</u>
 
 **Gross anatomy**<br>
 *Macroscopic; can be seen by the naked eye.*
@@ -48,8 +48,7 @@ There are also several subdivisions of both anatomy and physiology:
 
 <u>Embryology:</u> studies changes that occur before birth
 
-
-<u>Subdivisions of Physiology</u>
+> <u>Subdivisions of Physiology</u>
 
 
 
