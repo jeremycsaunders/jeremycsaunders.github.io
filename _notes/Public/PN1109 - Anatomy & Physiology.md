@@ -36,17 +36,22 @@ There are also several subdivisions of both anatomy and physiology:
 
 <u>Surface:</u> the study of internal structures as they relate to overlying skin surface i.e. feeling blood vessel for pulses and blood draw)
 
-2. **Microscopic**
+**Microscopic**
 *Structures too small to be seen by the naked eye.*
 
 <u>Cytology:</u> the study of cells
 
 <u>Histology:</u> the study of tissues
 
-3. **Developmental**
+**Developmental**
 *Observes structural changes throughout the lifespan of an organism.*
 
 <u>Embryology:</u> studies changes that occur before birth
+
+
+<u>Subdivisions of Physiology</u>
+
+
 
 
 ##### 1.2 List the levels of organization of the body.
