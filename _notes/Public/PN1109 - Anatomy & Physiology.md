@@ -27,7 +27,7 @@ There are also several subdivisions of both anatomy and physiology:
 
 <u>Subdivisions of Anatomy</u>
 
-**Gross anatomy**
+**Gross anatomy**<br>
 *Macroscopic; can be seen by the naked eye.*
 
 <u>Regional:</u> a particular region of body is examined at the same time
@@ -36,14 +36,14 @@ There are also several subdivisions of both anatomy and physiology:
 
 <u>Surface:</u> the study of internal structures as they relate to overlying skin surface i.e. feeling blood vessel for pulses and blood draw)
 
-**Microscopic**
+**Microscopic**<br>
 *Structures too small to be seen by the naked eye.*
 
 <u>Cytology:</u> the study of cells
 
 <u>Histology:</u> the study of tissues
 
-**Developmental**
+**Developmental**<br>
 *Observes structural changes throughout the lifespan of an organism.*
 
 <u>Embryology:</u> studies changes that occur before birth
