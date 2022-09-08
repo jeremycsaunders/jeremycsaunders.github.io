@@ -64,9 +64,33 @@ There are also several subdivisions of both anatomy and physiology:
 
 ### Questions
 
-- True/False - Anatomy is the study of function?
+True/False - Anatomy is the study of function?
 
-**True**
+**False**
+
+??? anatomy can be seen without the use of a microscope.
+
+**Gross**
+
+True/False - Microscopic anatomy can be seen with the naked eye.
+
+**False**
+
+??? anatomy looks at structural changes throughout the lifespan.
+
+**Developmental**
+
+The study of tissues is called ???
+
+**Histology**
+
+Refers to the examination of a body system: ???
+
+**Systemic**
+
+------------
+
+
 
 
 
