@@ -25,6 +25,8 @@ In other words, you will be learning about the **structure** and **function** of
 
 There are also several subdivisions of both anatomy and physiology:
 
+<br>
+
  <u><b>Subdivisions of Anatomy</b></u>
 
 **Gross anatomy**<br>
@@ -48,6 +50,7 @@ There are also several subdivisions of both anatomy and physiology:
 
 <u>Embryology:</u> studies changes that occur before birth
 
+<br>
 
  <u><b>Subdivisions of Physiology</b></u>
 
