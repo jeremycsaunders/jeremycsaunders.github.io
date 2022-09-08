@@ -11,6 +11,44 @@ tags: #anatomy #physiology #nursing
 --------------
 ##### 1.1 Define key terms related to anatomy and physiology.
 
+[[Anatomy]] is the scientific study of structure.
+
+Anatomy has a certain appeal because it is concrete. 
+Body structures can be seen, felt, and examined closely. 
+You don’t need to imagine what they look like.
+
+[[Physiology]] is the scientific study of function.
+
+When all is said and done, physiology is explainable only in terms of the underlying anatomy.
+
+In other words, you will be learning about the **structure** and **function** of the human body. The two are interrelated and have an effect on eachother.
+
+There are also several subdivisions of both anatomy and physiology:
+
+<u>Subdivisions of Anatomy</u>
+
+**Gross anatomy**
+*Macroscopic; can be seen by the naked eye.*
+
+<u>Regional:</u> a particular region of body is examined at the same time
+
+<u>Systemic:</u> body is studied system by system
+
+<u>Surface:</u> the study of internal structures as they relate to overlying skin surface i.e. feeling blood vessel for pulses and blood draw)
+
+2. **Microscopic**
+*Structures too small to be seen by the naked eye.*
+
+<u>Cytology:</u> the study of cells
+
+<u>Histology:</u> the study of tissues
+
+3. **Developmental**
+*Observes structural changes throughout the lifespan of an organism.*
+
+<u>Embryology:</u> studies changes that occur before birth
+
+
 ##### 1.2 List the levels of organization of the body.
 
 ##### 1.3 List and define the necessary life functions.
