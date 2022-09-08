@@ -9,7 +9,7 @@ tags: #anatomy #physiology #nursing
 --------------
 ### Objective 1
 --------------
-[[1.1 Define key terms related to anatomy and physiology.]]
+[[1.1 Define key terms related to anatomy and physiology]]
 
 [[1.2 List the levels of organization of the body.]]
 
