@@ -1,7 +1,6 @@
 ---
 title: {{title}}
 feed: hidden
-date: {{date:YYYY-MM-DD}}
+date: 07-09-2022
 tags:
 ---
-
