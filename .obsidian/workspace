@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "4dbffdba72750a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "26c5f43699c20715",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Public/PN1109 - Anatomy & Physiology/PN1109 - Anatomy & Physiology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cd375d4acccb032",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb5aca74e7bcbe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dad42bf1550bdc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "decfcfe8d54d08e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc3e39e6ae92a4e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2f8fdd3ef3738f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "044c7d69c2afd31e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e2c04ac8d6086c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/PN1109 - Anatomy & Physiology/PN1109 - Anatomy & Physiology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f47ae36d802f734f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Public/PN1109 - Anatomy & Physiology/PN1109 - Anatomy & Physiology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a40ba2888ca90588",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cacc6cc290e651b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Public/PN1109 - Anatomy & Physiology/PN1109 - Anatomy & Physiology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26c5f43699c20715",
+  "lastOpenFiles": [
+    "_notes/Public/PN1109 - Anatomy & Physiology/Objective 1/1.1 Define key terms related to anatomy and physiology.md",
+    "_notes/Public/PN1109 - Anatomy & Physiology/Objective 1/1.2 List the levels of organization of the body.md",
+    "_notes/Public/PN1109 - Anatomy & Physiology/Objective 1/1.3 List and define the necessary life functions.md",
+    "_notes/Public/PN1109 - Anatomy & Physiology/Objective 1/1.4 List the eleven body systems and the general function of each.md"
+  ]
+}
