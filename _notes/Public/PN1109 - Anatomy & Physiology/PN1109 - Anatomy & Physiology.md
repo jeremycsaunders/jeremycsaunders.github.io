@@ -17,7 +17,7 @@ tags: #anatomy #physiology #nursing
 
 [[1.4 List the eleven body systems and the general function of each]]
 
-[[1.5 Define organ and organ system]]
+[[1.5 Define organ and organ systems]]
 
 [[1.6 Define homeostasis and its function in maintaining life]]
 
