@@ -27,7 +27,7 @@ tags: #anatomy #physiology #nursing
 
 [[1.9 List the two major cavities and the subdivisions of each]]
 
-[[1.1 Name and locate the nine abdominal regions and the four abdominal quadrants]]
+[[1.10 Name and locate the nine abdominal regions and the four abdominal quadrants]]
 
 
 
